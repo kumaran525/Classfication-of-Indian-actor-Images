@@ -37,7 +37,7 @@ Out of the total 135 classes available, the following 10 classes were selected f
 
 <h3>Results</h3>
 
-The CNN model achieved an accuracy of around 72% on the test set. The results of the model evaluation, including metrics images and classification report, can be found in the results/ folder. The metrics images visualize the precision, recall, and F1-score for each class, providing an overview of the model's performance. 
+The CNN model achieved an accuracy of 70% on the test set. The results of the model evaluation, including metrics images and classification report, can be found in the results/ folder. The metrics images visualize the precision, recall, and F1-score for each class, providing an overview of the model's performance. 
 
 Further improvements can be made to the model by considering the following steps:
 
