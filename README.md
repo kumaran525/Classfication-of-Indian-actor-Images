@@ -6,6 +6,22 @@ This project focuses on classifying Indian actor images using the FaceNet model 
 
 The data for this project is obtained from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/indian-actor-images-dataset), a popular platform for data science competitions and datasets. Please refer to the provided Kaggle link to access the dataset used in this project.
 
+<h3>Class Selection</h3>
+
+Out of the total 135 classes available, the following 10 classes were selected for processing:
+
+1. Nagarjuna Akkineni
+2. Madhavan
+3. Kamal Haasan
+4. Saif Ali Khan
+5. Mohanlal
+6. Prabhas
+7. Sanjay Dutt
+8. Akshay Kumar
+9. Ramya Krishnan
+10. Salman Khan
+
+
 <h3>Approach</h3>
 <p><b>Exploratory Data Analysis (EDA)</b>: The EDA.ipynb notebook contains the exploratory data analysis process. It involves analyzing and visualizing the dataset to gain insights into its structure, distribution, and any patterns present in the actor images.</p>
 
