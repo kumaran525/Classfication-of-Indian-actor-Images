@@ -25,7 +25,7 @@ The CNN model achieved an accuracy of around 72% on the test set. The results of
 
 Further improvements can be made to the model by considering the following steps:
 
-Adding more data: Increasing the amount of training data can help the model learn more diverse patterns and improve its generalization capabilities.
+<p>Adding more data: Increasing the amount of training data can help the model learn more diverse patterns and improve its generalization capabilities.</p>
 Fine-tuning the model: Experimenting with different hyperparameters, model architectures, and regularization techniques can further enhance the model's accuracy and robustness.
 
 Feel free to reach out if you have any questions or suggestions!
