@@ -7,7 +7,7 @@ This project focuses on classifying Indian actor images using the FaceNet model 
 The data for this project is obtained from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/indian-actor-images-dataset), a popular platform for data science competitions and datasets. Please refer to the provided Kaggle link to access the dataset used in this project.
 
 <h3>Approach</h3>
-Exploratory Data Analysis (EDA): The EDA.ipynb notebook contains the exploratory data analysis process. It involves analyzing and visualizing the dataset to gain insights into its structure, distribution, and any patterns present in the actor images.
+<p>Exploratory Data Analysis (EDA): The EDA.ipynb notebook contains the exploratory data analysis process. It involves analyzing and visualizing the dataset to gain insights into its structure, distribution, and any patterns present in the actor images.</p>
 
 Feature Extraction: The Feature_Extraction.ipynb notebook focuses on the feature extraction process. It utilizes the FaceNet model to extract facial features from the input images. These features are then used as input for the classification models.
 
