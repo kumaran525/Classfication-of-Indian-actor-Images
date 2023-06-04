@@ -1,4 +1,5 @@
-Classifying Indian Actor Images
+<h3>Classifying Indian Actor Images</h3>
+
 This project focuses on classifying Indian actor images using the FaceNet model for feature extraction and predicting using custom CNN and DNN models. The goal is to achieve high accuracy in classifying Indian actor images and evaluate the model's performance.
 
 Data Source
