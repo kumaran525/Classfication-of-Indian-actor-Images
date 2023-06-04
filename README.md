@@ -9,8 +9,6 @@ The data for this project is obtained from [Kaggle](https://www.kaggle.com/datas
 <h3>Approach</h3>
 Exploratory Data Analysis (EDA): The EDA.ipynb notebook contains the exploratory data analysis process. It involves analyzing and visualizing the dataset to gain insights into its structure, distribution, and any patterns present in the actor images.
 
-
-
 Feature Extraction: The Feature_Extraction.ipynb notebook focuses on the feature extraction process. It utilizes the FaceNet model to extract facial features from the input images. These features are then used as input for the classification models.
 
 CNN Model: The cnn.ipynb notebook contains the implementation of the custom CNN model. It includes the model architecture and returns the trained CNN model object.
