@@ -9,15 +9,15 @@ The data for this project is obtained from [Kaggle](https://www.kaggle.com/datas
 <h3>Approach</h3>
 <p><b>Exploratory Data Analysis (EDA)</b>: The EDA.ipynb notebook contains the exploratory data analysis process. It involves analyzing and visualizing the dataset to gain insights into its structure, distribution, and any patterns present in the actor images.</p>
 
-Feature Extraction: The Feature_Extraction.ipynb notebook focuses on the feature extraction process. It utilizes the FaceNet model to extract facial features from the input images. These features are then used as input for the classification models.
+<b>Feature Extraction</b>: The Feature_Extraction.ipynb notebook focuses on the feature extraction process. It utilizes the FaceNet model to extract facial features from the input images. These features are then used as input for the classification models.
 
-CNN Model: The cnn.ipynb notebook contains the implementation of the custom CNN model. It includes the model architecture and returns the trained CNN model object.
+<b>CNN Model</b>: The cnn.ipynb notebook contains the implementation of the custom CNN model. It includes the model architecture and returns the trained CNN model object.
 
-DNN Model: The dnn.ipynb notebook focuses on the implementation of the custom DNN model. It includes the model architecture and returns the trained DNN model object.
+<b>DNN Model</b>: The dnn.ipynb notebook focuses on the implementation of the custom DNN model. It includes the model architecture and returns the trained DNN model object.
 
-Preprocessing: The preprocessor.ipynb notebook covers the preprocessing steps performed on the data. It includes normalization, resizing, and median filter to prepare the data for feature extraction and model training.
+<b>Preprocessing</b>: The preprocessor.ipynb notebook covers the preprocessing steps performed on the data. It includes normalization, resizing, and median filter to prepare the data for feature extraction and model training.
 
-Trainer Notebook: The trainer.ipynb notebook serves as the central file to train and evaluate the CNN and DNN models. It imports the necessary functions or classes from the cnn.ipynb and dnn.ipynb notebooks, executes the training process, and evaluates the models on the test set.
+<b>Trainer Notebook</b>: The trainer.ipynb notebook serves as the central file to train and evaluate the CNN and DNN models. It imports the necessary functions or classes from the cnn.ipynb and dnn.ipynb notebooks, executes the training process, and evaluates the models on the test set.
 
 <h3>Results</h3>
 
