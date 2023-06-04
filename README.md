@@ -2,10 +2,11 @@
 
 This project focuses on classifying Indian actor images using the FaceNet model for feature extraction and predicting using custom CNN and DNN models. The goal is to achieve high accuracy in classifying Indian actor images and evaluate the model's performance.
 
-Data Source
+<h3>Data Source</h3>
+
 The data for this project is obtained from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/indian-actor-images-dataset), a popular platform for data science competitions and datasets. Please refer to the provided Kaggle link to access the dataset used in this project.
 
-Approach
+<h3>Approach</h3>
 Exploratory Data Analysis (EDA): The EDA.ipynb notebook contains the exploratory data analysis process. It involves analyzing and visualizing the dataset to gain insights into its structure, distribution, and any patterns present in the actor images.
 
 Feature Extraction: The Feature_Extraction.ipynb notebook focuses on the feature extraction process. It utilizes the FaceNet model to extract facial features from the input images. These features are then used as input for the classification models.
@@ -18,7 +19,7 @@ Preprocessing: The preprocessor.ipynb notebook covers the preprocessing steps pe
 
 Trainer Notebook: The trainer.ipynb notebook serves as the central file to train and evaluate the CNN and DNN models. It imports the necessary functions or classes from the cnn.ipynb and dnn.ipynb notebooks, executes the training process, and evaluates the models on the test set.
 
-Results
+<h3>Results</h3>
 
 The CNN model achieved an accuracy of around 72% on the test set. The results of the model evaluation, including metrics images and classification report, can be found in the results/ folder. The metrics images visualize the precision, recall, and F1-score for each class, providing an overview of the model's performance. 
 
